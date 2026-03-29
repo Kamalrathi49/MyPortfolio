@@ -1,4 +1,4 @@
-# Portfolio — kamalrathi.dev
+# Portfolio — Kamal Rathi
 
 Production-style personal portfolio: **React (Vite) + Tailwind + Framer Motion** frontend on `kamalrathi.dev`, **FastAPI + SQLite** API on `api.kamalrathi.dev` (SQLAlchemy URL can be pointed at PostgreSQL later if you want).
 
